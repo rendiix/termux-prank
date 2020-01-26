@@ -1,5 +1,5 @@
 [![GitHub](https://img.shields.io/github/license/rendiix/make_ext4fs.svg)](https://github.com/rendiix/termux-prank/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.io/rendiix/make_ext4fs.svg)](http://github.com/rendiix/termux-prank)
+[![HitCount](http://hits.dwyl.io/rendiix/termux-prank.svg)](http://github.com/rendiix/termux-prank)
 [![GitHub release](https://img.shields.io/github/release/rendiix/make_ext4fs.svg)](https://GitHub.com/rendiix/termux-prank/releases/)
 [![Github all releases](https://img.shields.io/github/downloads/rendiix/termux-prank/total.svg)](https://GitHub.com/rendiix/termux-prank/releases/)
 [![GitHub forks](https://img.shields.io/github/forks/rendiix/make_ext4fs.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rendiix/termux-prank/network/)
